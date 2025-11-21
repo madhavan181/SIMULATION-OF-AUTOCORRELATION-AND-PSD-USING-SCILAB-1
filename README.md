@@ -85,4 +85,4 @@ __OUTPUT:__
 
 
 __RESULT:__
-Thus the Simulation of Auto correlation is executed in Scilab and output is verified.
+Thus the Simulation of Auto correlation and PSD is executed in Scilab and output is verified.
